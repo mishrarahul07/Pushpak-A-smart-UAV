@@ -1,8 +1,10 @@
 ## Pushpak: A Smart UAV
-<img src="images/Add tasks.gif" alt="logo full" width=25%> 
+
+<img src="FinalOutput/Assets/DJITello.jpeg" alt="DJI Tello" width=10%> 
 Enhancement of the existing DJI TELLO drone and adding functionalities 
 like Keyboard controls, Hand-gesture controls, Face-tracking, and Line-following 
 using Deep Learning and Image Processing.
+  
 <hr>
 
 ## :heavy_check_mark: Features
@@ -10,7 +12,9 @@ using Deep Learning and Image Processing.
 * A drone programmed such that it will be capable of face tracking.
   It will be able to follow the person keeping a specific distance from him/her whose face the drone would have detected.
 * A drone programmed to easily control it through the keyboard.
-
+<p align="center">
+<img src="FinalOutput/Assets/WorkFlowDiagram.png" alt="WorkFlow" width=80%> 
+</p>
 <hr>
 
 ## :handshake: Contribution
